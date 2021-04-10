@@ -1,0 +1,10 @@
+.word-list-tag{
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+
+.fab-icon-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

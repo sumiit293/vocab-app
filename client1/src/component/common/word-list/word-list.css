@@ -1,0 +1,15 @@
+.word-list-wrapper {
+    margin: 0px auto 10px auto;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+}
+.word-list-heading {
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+}
+.word-short-def {
+    margin: 8px auto 5px auto;
+    font-size: 16px;
+}
